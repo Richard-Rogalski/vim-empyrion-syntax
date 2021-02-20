@@ -1,2 +1,2 @@
 # vim-empyrion-syntax
-Vim syntax file for .ecf files
+Vim syntax file for empyrion galactic survival .ecf files
