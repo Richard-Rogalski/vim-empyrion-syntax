@@ -12,7 +12,8 @@ if any folders are not present, create them
 # Use
 For the syntax to work, you could either run
 :set syntax=ecf
-every time you edit a .ecf file, or you could add the following to filetype.vim (in the same directory as the syntax folder)
+inside of vim every time you edit a .ecf file, or you could add the following to filetype.vim (in the same directory as the syntax folder)
+
 au BufRead,BufNewFile *.ecf setfiletype ecf
 
 if filetype.vim doesn't exist, then create it
