@@ -1,5 +1,6 @@
 # vim-empyrion-syntax
-Vim syntax file for empyrion galactic survival .ecf files
+Vim syntax file for empyrion galactic survival .ecf files  
+This for the most part doesn't have most of the syntax. It was tedious, but sometime soon I may finish this
 
 # Installation
 Place ecf.vim into your vim syntax directory. To find where the file should be placed, run 
